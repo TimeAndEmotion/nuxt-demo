@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'CourseKit Demo',
+    title: 'CourseKit Demo1',
     htmlAttrs: {
       lang: 'en'
     },
